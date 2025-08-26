@@ -8,6 +8,7 @@
   - **consumidor_reclamacoes/**
     - **reclamacoes.csv**
     - **reclamacoes_contexto.csv**
+  - **Reclamações_Glossário_e_Metadados.pdf**
 
 - **.gitignore**
 
