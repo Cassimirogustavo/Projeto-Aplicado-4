@@ -4,7 +4,10 @@
 
 ## 📄 Sumário
 
-- 
+- **base/**
+  - **consumidor_reclamacoes/**
+    - **reclamacoes.csv**
+    - **reclamacoes_contexto.csv**
 
 - **.gitignore**
 
@@ -21,6 +24,6 @@
 &nbsp;
 ## 🙇 Grupo
 
-- [GUSTAVO MATHEUS CASSIMIRO CARNEIRO](https://github.com/Cassimirogustavo) - <matricula>@mackenzista.com.br
+- [GUSTAVO MATHEUS CASSIMIRO CARNEIRO](https://github.com/Cassimirogustavo) - matricula@mackenzista.com.br
 - [MAIKI SOARES](https://github.com/maikisoares00) - 10415481@mackenzista.com.br
 - [VANESSA CORDEIRO GONÇALVES DE OLIVEIRA](https://github.com/vanessacordeiro) - 10415118@mackenzista.com.br
