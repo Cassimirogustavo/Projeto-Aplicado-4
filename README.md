@@ -16,7 +16,7 @@
 
 &nbsp;
 ## 🚀 Objetivo
-<objetivo>
+Desenvolver um produto analítico baseado em séries temporais para monitorar, analisar e prever as manifestações registradas pelos consumidores junto à Anatel, identificando padrões históricos, tendências futuras e possíveis anomalias nos serviços de telecomunicações.
 
 &nbsp;
 ## 🎲 Base de Dados
