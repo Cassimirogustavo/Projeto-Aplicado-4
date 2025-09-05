@@ -28,3 +28,5 @@ Desenvolver um produto analítico baseado em séries temporais para monitorar, a
 - [GUSTAVO MATHEUS CASSIMIRO CARNEIRO](https://github.com/Cassimirogustavo) - 10415853@mackenzista.com.br
 - [MAIKI SOARES](https://github.com/maikisoares00) - 10415481@mackenzista.com.br
 - [VANESSA CORDEIRO GONÇALVES DE OLIVEIRA](https://github.com/vanessacordeiro) - 10415118@mackenzista.com.br
+- [MARIA FERNANDA SALLES VASCONCELLOS](https://github.com/mafevasconcellos) - 10424791@mackenzista.com.br
+- [NATHAN SAMPAIO SANTANA DOS SANTOS](https://github.com/nathansamp) - 10408439@mackenzista.com.br
