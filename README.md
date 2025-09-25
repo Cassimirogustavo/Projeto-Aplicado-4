@@ -10,6 +10,8 @@
     - **reclamacoes_contexto.csv** ~arquivo indisponivel no Git devido a limite de tamanho
   - **Reclamações_Glossário_e_Metadados.pdf**
 
+- **figuras/**
+
 - **.gitignore**
 
 - **README.md**
