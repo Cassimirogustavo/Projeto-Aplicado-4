@@ -16,6 +16,14 @@
 
 - **README.md**
 
+- **dados_modelo.csv** (Dados tratados e agregados para o modelo base da Entrega 3)
+
+- **cd_projeto_aplicado_IV_entrega_1.ipynb**
+
+- **cd_projeto_aplicado_IV_entrega_2.ipynb**
+
+- **cd_projeto_aplicado_IV_entrega_3.ipynb**
+
 &nbsp;
 ## 🚀 Objetivo
 Desenvolver um produto analítico baseado em séries temporais para monitorar, analisar e prever as manifestações registradas pelos consumidores junto à Anatel, identificando padrões históricos, tendências futuras e possíveis anomalias nos serviços de telecomunicações.
